@@ -8,11 +8,11 @@ This project provides an advanced system for autonomous navigation and mapping, 
 
 ### Simulation Video
 
-[Simulation Video](https://www.youtube.com/watch?v=UwUdSarG_HE)
+[![Simulation Video](https://img.youtube.com/vi/UwUdSarG_HE/maxresdefault.jpg)](https://www.youtube.com/watch?v=UwUdSarG_HE)
 
 ### Real Drone Video
 
-[Real Drone Video](https://www.youtube.com/watch?v=guq8SLdWFZY)
+[![Real Drone Video](https://img.youtube.com/vi/guq8SLdWFZY/maxresdefault.jpg)](https://www.youtube.com/watch?v=guq8SLdWFZY)
 
 
 ### Proposed Solutions for Advanced Mapping and Navigation
