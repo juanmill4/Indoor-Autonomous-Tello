@@ -6,6 +6,15 @@ This repository contains the code and configurations for an advanced autonomous 
 
 This project provides an advanced system for autonomous navigation and mapping, leveraging various technologies like ARUCO markers, Webots simulation, and deep learning object detection through Yolov5. The system is designed to perform autonomous indoor navigation using drones and can be deployed both in a simulated environment (Webots) and real-world scenarios.
 
+### Simulation Video
+
+[Simulation Video](https://www.youtube.com/watch?v=UwUdSarG_HE)
+
+### Real Drone Video
+
+[Real Drone Video](https://www.youtube.com/watch?v=guq8SLdWFZY)
+
+
 ### Proposed Solutions for Advanced Mapping and Navigation
 
 The main goal is to develop a system that can navigate autonomously while mapping its environment. Some of the key technologies used are:
