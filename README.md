@@ -34,6 +34,10 @@ Several technical challenges had to be addressed:
 
 Before the system can be deployed, several configurations must be set up, including ARUCO tag generation, environment preparation, and network integration.
 
+If you would like to see a detailed step-by-step guide (in Spanish) on how to set up the system, please refer to the following PDF document:
+[Step by Step Guide PDF (Spanish)](https://github.com/juanmill4/Indoor-Autonomous-Tello/blob/master/IndoorControlDroneSistem.pdf).
+
+
 ### Preliminary Configurations
 
 Initial setup includes configuring the ARUCO markers, setting up the Webots environment, and preparing the Tellopy API for controlling the drone.
