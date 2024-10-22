@@ -1,6 +1,6 @@
 # Autonomous Drone Navigation System indoor
 
-This repository contains the code and configurations for an advanced autonomous navigation system developed using several technologies including Aruco markers, Webots simulator, Yolov5, and a real drone controlled via the tellopy. The system allows for both simulation and real-world testing, focusing on indoor autonomous navigation.
+This repository contains the code and configurations for an autonomous navigation system developed using several technologies including Aruco markers, Webots simulator, Yolov5, and a real drone controlled via the tellopy. The system allows for both simulation and real-world testing, focusing on indoor autonomous navigation.
 
 ## General System Description
 
